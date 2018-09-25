@@ -1,2 +1,2 @@
-print("HI, everybody")
-{feature}
+print("HI, everybody");
+{feature};
