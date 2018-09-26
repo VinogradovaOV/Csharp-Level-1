@@ -1,0 +1,20 @@
+c:\users\shevela\documents\visual studio 2012\Projects\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.exe.config
+c:\users\shevela\documents\visual studio 2012\Projects\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.exe
+c:\users\shevela\documents\visual studio 2012\Projects\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.pdb
+c:\users\shevela\documents\visual studio 2012\Projects\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.csprojResolveAssemblyReference.cache
+c:\users\shevela\documents\visual studio 2012\Projects\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.exe
+c:\users\shevela\documents\visual studio 2012\Projects\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.pdb
+H:\Обучение\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.exe.config
+H:\Обучение\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.exe
+H:\Обучение\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.pdb
+H:\Обучение\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.csprojAssemblyReference.cache
+H:\Обучение\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.csproj.CoreCompileInputs.cache
+H:\Обучение\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.exe
+H:\Обучение\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.pdb
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.exe.config
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.exe
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\bin\Debug\ConsoleSample3.pdb
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.csprojAssemblyReference.cache
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.exe
+C:\Users\Иван\Documents\Visual Studio 2017\ConsoleSample3\ConsoleSample3\obj\Debug\ConsoleSample3.pdb
